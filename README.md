@@ -1,3 +1,4 @@
 # vlan-techno
 practice of vlan configuration and routing 
-/home/hamza/Images/Captures d’écran/Capture d’écran du 2023-01-17 10-08-41.png
+
+![image](https://user-images.githubusercontent.com/123383990/214152118-8e2f38e7-1a95-45fd-afed-cee5280e335c.png)
